@@ -97,6 +97,9 @@ screen -S fuel
 
 #### گام 15:
 در کد پایین، بخش ANY_SERVICE_NAME را با نام دلخواه پر کنید، بخش P2P_SECRET را با p2p key مربوطه و بخش ETH_RPC_ENDPOINT را با Rpc بخش HTTPS در سایت Alchemy قرار دهید.
+
+
+نکته : اگر میخواید با نود Ritual ران کنید و تداخل پورت نداشته باشید اون Port رو بکنید  4050 
 ```
 fuel-core run \
 --service-name {ANY_SERVICE_NAME} \
