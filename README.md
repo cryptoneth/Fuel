@@ -181,7 +181,7 @@ forc build
 ```
 
 
-# Deploy Contract , Enter password , Enter 0 , Enter y
+# Deploy Contract , Enter password , Enter 1 , Enter y
 ```
 forc deploy --testnet
 ```
